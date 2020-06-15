@@ -1,0 +1,27 @@
+.color-morado {
+    background-color: #893DAC;
+    border-style: none;
+}
+
+button.color-morado:hover {
+    background-color: mediumpurple;
+}
+
+a.color-morado:hover {
+    background-color: mediumpurple;
+}
+
+.borde-morado {
+    background-color: white;
+    border-style: solid;
+    border-color: #893DAC;
+    color: #893DAC;
+}
+
+.color-cian {
+    background-color: #60D6CD;
+}
+
+.text-morado {
+    color: #893DAC;
+}
